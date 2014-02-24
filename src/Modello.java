@@ -1,6 +1,6 @@
 public class Modello implements Dominio<QuadratoMagico> {
 	
-	// Tabella del gioco nello stato di GOAL
+	//   ---Tabella del gioco nello stato di GOAL
 	QuadratoMagico goal;
 
 	public QuadratoMagico copia(QuadratoMagico state)
