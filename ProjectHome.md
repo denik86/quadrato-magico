@@ -1,0 +1,1 @@
+Gioco del quadrato magico per misurare la prestazioni dell'algoritmo A
